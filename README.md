@@ -1,5 +1,5 @@
 ############################################
 
-## Leetcode Problems & Solutions Repo
+# Leetcode Problems & Solutions Repo
 
-# Daily posting leetcode solutions
+## Daily posting leetcode solutions
